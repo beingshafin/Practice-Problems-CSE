@@ -91,11 +91,11 @@ gcc filename.c -o output && ./output
 
 | Category      | Status                          |
 | ------------- | ------------------------------- |
-| CSES          | 🚧 In Progress                  |
-| GreenSheet    | 📘 Ongoing                      |
-| Nextgen       | ⚙️ Actively Solving             |
+| CSES          | 🚧 To do                        |
+| GreenSheet    | 📘 Actively Solving             |
+| Nextgen       | ⚙️ Ongoing                      |
 | Miscellaneous | 🌟 Updated Occasionally         |
-| Community     | 💬 Added on Discovery           |
+| Community     | 💬 Backlog                      |
 | Basic         | 🧩 Completed (for fundamentals) |
 | Archive       | 🗃️ Stored for reference         |
 
