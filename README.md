@@ -27,3 +27,67 @@ This repository serves as my **learning archive** — a mix of structured sets, 
 ---
 
 ## 🗂️ Structure
+
+```
+
+Practice-Problems-CSE/
+├── CSES/
+│ ├── introductory/
+│ ├── sorting_and_searching/
+│ └── ...
+├── GreenSheet/
+│ ├── arrays/
+│ ├── loops/
+│ └── ...
+├── Nextgen/
+├── Random/
+└── Telegram/
+
+```
+
+Each folder contains source files (`.c`, `.cpp`, or `.py`) along with a short comment or problem link at the top for quick reference.
+
+---
+
+## ⚙️ Environment
+
+- **Language:** C (mostly), with some problems in C++ or Python
+- **Compiler:** `gcc` / `g++`
+- **OS:** Linux (Arch) / Windows (WSL)
+
+---
+
+## 🏁 Progress Tracking
+
+| Category   | Status                        |
+| ---------- | ----------------------------- |
+| CSES       | 🚧 In Progress                |
+| GreenSheet | 📘 Ongoing (university-based) |
+| Nextgen    | ⚙️ Active                     |
+| Random     | 🌟 Updated occasionally       |
+| Telegram   | 💬 Added on discovery         |
+
+---
+
+## 🚀 Future Plans
+
+- Add solution explanations for selected problems
+- Include categorized README in each folder
+- Track solved count and difficulty distribution
+
+---
+
+## 📄 License
+
+This repository is open for educational and reference purposes.
+Feel free to explore, fork, or use the solutions for learning — but avoid copying in contests or assignments 😄
+
+---
+
+**⭐ Keep Practicing. Keep Growing.**
+
+> _“The more you sweat in practice, the less you bleed in battle.”_
+
+```
+
+```
