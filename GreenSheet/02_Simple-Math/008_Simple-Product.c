@@ -1,12 +1,15 @@
 /*
-
+https://judge.beecrowd.com/en/problems/view/1004
 */
 
 #include <stdio.h>
 
-int main(void)
+int main()
 {
-
-
+    int A,B, PROD;
+    scanf("%d %d", &A, &B);
+    PROD = A*B;
+    printf("PROD = %d\n", PROD);
     return 0;
 }
+
