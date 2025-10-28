@@ -4,9 +4,7 @@ https://judge.beecrowd.com/en/problems/view/2456
 
 //#include <stdio.h>
 #include <iostream>
-
 using namespace std;
-
 int main(void)
 {
     int a, b, c, d, e;
