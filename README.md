@@ -1,123 +1,30 @@
-# 🧠 Practice-Problems-CSE
+# 🧠 My Coding Vault
 
-A personal collection of programming problems I’ve solved and practiced from various sources to strengthen my understanding of **algorithms**, **data structures**, and **problem-solving strategies**.
+welcome to my personal **coding purgatory**, where i fight bugs, forget semicolons, and somehow learn algorithms along the way.
+it’s a collection of problems i’ve solved (or rage-quit halfway) from different places — all part of my ongoing quest to become slightly less confused every day.
 
-This repository serves as my **learning log**, containing a mix of structured sets, university problems, and random challenges — all organized for long-term practice and quick reference.
+basically:
 
----
-
-## 📚 Problem Sources
-
-| Source                                                                                                                 | Description                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**CSES Problem Set**](https://cses.fi/problemset/)                                                                    | A comprehensive collection of competitive programming problems covering a wide range of algorithms and data structures. [Vjudge ↗](https://vjudge.net/article/2856) |
-| [**GreenSheet**](https://docs.google.com/spreadsheets/d/18xKoNe8tlTGH6DMXfY0zU5dRW2OsIblW9nyxe4B0nwU/edit?usp=sharing) | My university’s curated sheet of essential programming problems — prerequisite before participating in competitive programming.                                     |
-| [**Nextgen**](https://diunextgen.com)                                                                                  | Problems from DIU Nextgen — university’s internal problem-solving platform.                                                                                         |
-| **Miscellaneous**                                                                                                      | Interesting or challenging problems I came across online, often for experimentation or extra practice.                                                              |
-| **Community**                                                                                                          | Problems shared in my university’s Telegram groups, usually from teachers, contests, or student discussions.                                                        |
-| **Basic**                                                                                                              | Basic foundational, logical problems.                                                                                                                               |
-| **Archive**                                                                                                            | Random problems I do here and there. (Archived for later)                                                                                                           |
+> sleep? no.
+> compile errors? yes.
+> arch user? obviously.
 
 ---
 
-## 🗂️ Folder Structure
+## ⚡ sources of pain & enlightenment
 
-```
-
-Practice-Problems-CSE/
-├── cses-problems/
-│   ├── introductory/
-│   ├── sorting-searching/
-│   ├── dynamic-programming/
-│   └── ...
-│
-├── university-greensheet/
-│   ├── arrays/
-│   ├── loops/
-│   ├── strings/
-│   └── ...
-│
-├── university-nextgen/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-│
-├── miscellaneous/
-│   ├── contests/
-│   └── experiments/
-│
-├── community/
-│   ├── telegram/
-│   └── uni-groups/
-│
-├── basic/
-│   ├── loops/
-│   ├── conditionals/
-│   └── patterns/
-│
-└── archive/
-└── old-practice/
-
-```
-
-Each folder contains `.c`, `.cpp`, or `.py` source files, usually with a brief problem description or source link in the comments.
+| Source                                                                                                                 | vibe check                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [**CSES**](https://cses.fi/problemset/)                                                                                | the holy scriptures of competitive programming. i go here when i want to feel dumb _and_ productive. |
+| [**GreenSheet**](https://docs.google.com/spreadsheets/d/18xKoNe8tlTGH6DMXfY0zU5dRW2OsIblW9nyxe4B0nwU/edit?usp=sharing) | uni’s sacred problem list — finish this or you’re not “ready” for contests (whatever that means).    |
+| [**Nextgen**](https://diunextgen.com)                                                                                  | our university’s internal platform. sometimes fun, sometimes pain, mostly chaos.                     |
+| **Miscellaneous**                                                                                                      | random problems from the internet that i thought looked cool at 3 AM.                                |
+| **Community**                                                                                                          | telegram problems from people who say “ez bro” then disappear.                                       |
+| **Basic**                                                                                                              | where i pretended to “revise fundamentals” but really just tested printf().                          |
+| **Archive**                                                                                                            | ancient code from a past life (may contain cringe).                                                  |
 
 ---
 
-## 💡 Purpose
+⭐ _written on Arch, compiled with caffeine_
 
-- Build a **strong problem-solving foundation**
-- Learn **core algorithmic patterns**
-- Practice consistency through **daily problem solving**
-- Track progress across different sources and difficulty levels
-
----
-
-## ⚙️ Environment Setup
-
-- **Languages:** C (mostly), with some C++ and Python
-- **Compiler:** `gcc` / `g++`
-- **Operating System:** Arch Linux (Hyprland) / Windows 11 (WSL)
-
-To compile and run C programs:
-
-```bash
-gcc filename.c -o output && ./output
-```
-
----
-
-## 🏁 Progress Tracking
-
-| Category      | Status                          |
-| ------------- | ------------------------------- |
-| CSES          | 🚧 To do                        |
-| GreenSheet    | 📘 Actively Solving             |
-| Nextgen       | ⚙️ Ongoing                      |
-| Miscellaneous | 🌟 Updated Occasionally         |
-| Community     | 💬 Backlog                      |
-| Basic         | 🧩 Completed (for fundamentals) |
-| Archive       | 🗃️ Stored for reference         |
-
----
-
-## 🚀 Future Plans
-
-- Add **README.md** inside each category folder with problem lists and progress stats
-- Add **difficulty tags** (Easy / Medium / Hard) for better navigation
-- Include **solution explanations** for selected problems
-- Track solved count dynamically using a script or JSON file
-
----
-
-## 📄 License
-
-This repository is open for **educational and reference purposes**.
-You’re welcome to explore, learn, and use the solutions —
-but please **don’t copy directly** in contests or coursework 😄
-
----
-
-**⭐ Keep Practicing. Keep Improving.**
-
-> _“First solve the problem, then write the code.” — John Johnson_
+> “First solve the problem, then touch grass.” — probably not John Johnson
