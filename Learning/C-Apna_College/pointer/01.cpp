@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 int main(void){
-    int x;
+    int x=15;
 
     // must inintialize the address to the pointer first =======
 
-    int *ptr = &x; //ptr should be declared with special sign but after declareation dont use it (as it will store the value on og variable not address on current pointer)
+    int *ptr = &x; //ptr should be declared with special sign but after declareation dont use * (as it will store the value on og variable not address on current pointer)
 
 
     // than may assign a value using that adress inside pointer =======
@@ -22,6 +22,7 @@ int main(void){
     // printing value of x
     printf("%d\n", x); 
     printf("%d\n", *ptr);
+    printf("%d\n", **pptr);
 
     // printing address of x
     printf("%d\n", &x);
@@ -31,6 +32,7 @@ int main(void){
     //printing address of pointer 1
     printf("%p\n", &ptr);
     printf("%p\n", pptr);
+
     return 0;
 }
 
